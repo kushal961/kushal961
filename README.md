@@ -1,5 +1,5 @@
 # 💫 About Me:Hi, I am Kushal
- 🔭<b> I am  an Engineering Student<b><br> 🌱 <b>I’m currently learning Web Development<b><br> ✨ <b>I'm interested in UI/UX designing<b><br> ⚡ Fun fact:  I'm a quick learner
+ 🔭<b> I am  an Engineering Student<b><br> 🌱 <b>I’m currently learning Web Development<b><br> ✨ <b>I'm interested in UI/UX designing<b><br> <b> 🔓 I'm interested in Open Source <b><br>⚡ Fun fact:  I'm a quick learner
 
 
 ## 🌐 Socials:
