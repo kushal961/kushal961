@@ -3,12 +3,12 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushal_961) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KushalKatare) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushal_961) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KushalKatare)   <a href="https://www.behance.net/kushalk7">#Behance</a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kushal961&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kushal961&theme=neon&hide_border=false)<br/>
 
-<a href="https://www.behance.net/kushalk7">#Behance</a>
+
 
 
 ## 🏆 GitHub Trophies
